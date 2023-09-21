@@ -67,7 +67,7 @@ body{
 
 .hero{
     min-height: 100vh;
-    background-image: url(/bg.jpg);
+    background-image: url(/bgupdt.jpg);
     color: #fff;
     text-shadow: var(--shadow);
     font-weight: bolder;
